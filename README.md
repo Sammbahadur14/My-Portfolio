@@ -12,7 +12,7 @@ Frontend: HTML5, CSS3, JavaScript (React.js), Bootstrap
 Version Control: Git, GitHub
 
 My Role:
-As both the designer and developer, I conceptualized, designed, and implemented the entire portfolio website. This involved creating wireframes, designing the user interface, coding frontend components using React.js, and deploying the website on Netlify. Additionally, I utilized version control with Git and GitHub to manage the project's codebase and collaborate with others.
+As both the designer and developer, I conceptualized, designed, and implemented the entire portfolio website. This involved creating wireframes, designing the user interface, coding frontend components using React.js.
 
 Key Features:
 
@@ -25,6 +25,4 @@ Achievements:
 
 Designed and implemented a visually appealing and user-friendly interface using React.js, enhancing the overall browsing experience for visitors.
 Showcased a diverse range of projects in the portfolio section, highlighting my skills and proficiency in various technologies and domains.
-Utilized Netlify for seamless deployment and hosting, ensuring the website is accessible to visitors worldwide with minimal downtime.
 Incorporated a contact form for easy communication, enabling potential clients or employers to reach out to me directly.
-Leveraged version control with Git and GitHub to manage project changes, collaborate with others, and maintain a well-organized codebase.
