@@ -1,9 +1,6 @@
 # My-Portfolio
 This is complete React and Responsive projects .
 
-
-Certainly! Below is an example of a description for a portfolio website project:
-
 Project Name: Personal Portfolio Website
 
 Overview:
